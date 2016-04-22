@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Developer\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Developer\AndroidStudioProjects\YAColander\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e4ea233b4926295de21657ade156d4addb784705.jar" />
+    </item>
+    <item
+        jar="C:\Users\Developer\AndroidStudioProjects\YAColander\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41b894408604c155812b0f53f994bdf2c04936cd">
+        <dex dex="C:\Users\Developer\AndroidStudioProjects\YAColander\app\build\intermediates\pre-dexed\debug\instant-run_758b2e62d9533ed6a0e35492580d06b5bfd6311f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Developer\AndroidStudioProjects\YAColander\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fadcf3523d30fa2fdaaefcd0f51a75b42a3e7614">
+        <dex dex="C:\Users\Developer\AndroidStudioProjects\YAColander\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_37220f3ec2441c03dfacae881c032a0a410a50c9.jar" />
+    </item>
+
+</items>

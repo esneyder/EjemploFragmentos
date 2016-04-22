@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 116,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\values-sw600dp\\layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 116,
+                        "endOffset": 256
+                    }
+                }
+            }
+        ]
+    }
+]

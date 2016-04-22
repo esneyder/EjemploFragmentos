@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_activity_detalle.xml",
+        "source": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\layout\\layout_activity_detalle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_activity_principal_dospaneles.xml",
+        "source": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\layout\\layout_activity_principal_dospaneles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_elemento_listado.xml",
+        "source": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\layout\\layout_elemento_listado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_detalle.xml",
+        "source": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\layout\\layout_fragment_detalle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_activity_principal_listado.xml",
+        "source": "C:\\Users\\Developer\\AndroidStudioProjects\\YAColander\\app\\src\\main\\res\\layout\\layout_activity_principal_listado.xml"
+    }
+]
